@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE People SYSTEM "teams.dtd">
+<teams>
+	<team tid="1" country="Canada">
+		<name>Leafs</name>
+		<coach cid="1"/>
+		<player pid="1"><position>A</position></player>
+		<player pid="2"><position>B</position></player>
+		<player pid="3"><position>C</position></player>
+		<player pid="4"><position>D</position></player>
+		<budget sponsor="Vodafone">1000000</budget>
+	</team>
+	<team tid="2" country="Canada">
+		<name>Canucks</name>
+		<coach cid="1000"/>
+		<player pid="5"><position>A</position></player>
+		<player pid="6"><position>B</position></player>
+		<player pid="7"><position>C</position></player>
+		<player pid="8"><position>D</position></player>
+		<budget sponsor="Google">2000000</budget>
+	</team>
+	<team tid="3" country="USA">
+		<name>Kings</name>
+		<coach cid="11"/>
+		<player pid="9"><position>A</position></player>
+		<player pid="10"><position>B</position></player>
+		<player pid="11"><position>C</position></player>
+		<player pid="12"><position>D</position></player>
+		<budget>500000</budget>
+	</team>
+	<team tid="4" country="USA">
+		<name>Lakers</name>
+		<coach cid="87"/>
+		<player pid="13"><position>A</position></player>
+		<player pid="14"><position>B</position></player>
+		<player pid="15"><position>C</position></player>
+		<player pid="16"><position>D</position></player>
+		<budget sponsor="Microsoft">150000</budget>
+	</team>
+	<team tid="5" country="UK">
+		<name>Team</name>
+		<coach cid="5"/>
+		<player pid="17"><position>A</position></player>
+		<player pid="18"><position>B</position></player>
+		<player pid="19"><position>C</position></player>
+		<player pid="20"><position>D</position></player>
+		<budget>8000000</budget>
+	</team>
+</teams>

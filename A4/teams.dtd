@@ -1,0 +1,13 @@
+<!ELEMENT teams (team*)>
+<!ELEMENT team (name, coach, player+,budget)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT player (position)>
+<!ELEMENT coach (EMPTY)>
+<!ELEMENT position (#PCDATA)>
+<!ELEMENT budget (#PCDATA)>
+
+<!ATTLIST team tid CDATA #REQUIRED>
+<!ATTLIST team country CDATA #REQUIRED>
+<!ATTLIST player pid CDATA #REQUIRED>
+<!ATTLIST coach cid CDATA #REQUIRED>
+<!ATTLIST budget sponsor CDATA #IMPLIED>

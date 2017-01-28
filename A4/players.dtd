@@ -1,0 +1,10 @@
+<!ELEMENT players (player*)>
+<!ELEMENT player (salary, nationality)>
+<!ELEMENT salary (#PCDATA)>
+<!ELEMENT nationality (country+)>
+<!ELEMENT country (#PCDATA)>
+
+<!ATTLIST player pid CDATA #REQUIRED>
+<!ATTLIST player fname CDATA #REQUIRED>
+<!ATTLIST player lname CDATA #REQUIRED>
+<!ATTLIST player married (yes|no) #REQUIRED>

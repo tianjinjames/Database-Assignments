@@ -1,0 +1,130 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE People SYSTEM "players.dtd">
+<players>
+	<player pid="1" fname="John" lname="Smith" married="no">
+		<salary>57000</salary>
+		<nationality>
+			<country>Canada</country>
+		</nationality>
+	</player>
+	<player pid="2" fname="Tom" lname="Brown" married="yes">
+		<salary>90000</salary>
+		<nationality>
+			<country>Canada</country>
+			<country>USA</country>
+		</nationality>
+	</player>
+	<player pid="3" fname="Johnny" lname="Smithers" married="no">
+		<salary>99999</salary>
+		<nationality>
+			<country>UK</country>
+		</nationality>
+	</player>
+	<player pid="4" fname="Bob" lname="White" married="no">
+		<salary>100000</salary>
+		<nationality>
+			<country>France</country>
+		</nationality>
+	</player>
+	<player pid="5" fname="Conrad" lname="Black" married="yes">
+		<salary>120000</salary>
+		<nationality>
+			<country>Spain</country>
+			<country>Greece</country>
+		</nationality>
+	</player>
+	<player pid="6" fname="Steven" lname="Potter" married="yes">
+		<salary>575000</salary>
+		<nationality>
+			<country>Belgium</country>
+		</nationality>
+	</player>
+	<player pid="7" fname="Harry" lname="Johnson" married="no">
+		<salary>79000</salary>
+		<nationality>
+			<country>Canada</country>
+			<country>UK</country>
+		</nationality>
+	</player>
+	<player pid="8" fname="Greg" lname="Anderson" married="no">
+		<salary>94000</salary>
+		<nationality>
+			<country>Sweden</country>
+		</nationality>
+	</player>
+	<player pid="9" fname="Jane" lname="Smith" married="yes">
+		<salary>320000</salary>
+		<nationality>
+			<country>France</country>
+		</nationality>
+	</player>
+	<player pid="10" fname="John" lname="Smith" married="yes">
+		<salary>136000</salary>
+		<nationality>
+			<country>UK</country>
+			<country>Ireland</country>
+		</nationality>
+	</player>
+	<player pid="11" fname="Alice" lname="Herman" married="yes">
+		<salary>1000000</salary>
+		<nationality>
+			<country>Germany</country>
+		</nationality>
+	</player>
+	<player pid="12" fname="David" lname="Wesley" married="no">
+		<salary>31000</salary>
+		<nationality>
+			<country>Canada</country>
+		</nationality>
+	</player>
+	<player pid="13" fname="James" lname="Bond" married="no">
+		<salary>68000</salary>
+		<nationality>
+			<country>Ireland</country>
+		</nationality>
+	</player>
+	<player pid="14" fname="Jim" lname="Hardwick" married="no">
+		<salary>57000</salary>
+		<nationality>
+			<country>USA</country>
+			<country>Ireland</country>
+		</nationality>
+	</player>
+	<player pid="15" fname="Phil" lname="Jackson" married="no">
+		<salary>145000</salary>
+		<nationality>
+			<country>UK</country>
+		</nationality>
+	</player>
+	<player pid="16" fname="Colin" lname="Crowe" married="yes">
+		<salary>101000</salary>
+		<nationality>
+			<country>Norway</country>
+		</nationality>
+	</player>
+	<player pid="17" fname="Oliver" lname="Cromwell" married="no">
+		<salary>105000</salary>
+		<nationality>
+			<country>Denmark</country>
+			<country>Sweden</country>
+		</nationality>
+	</player>
+	<player pid="18" fname="Jennifer" lname="Grey" married="yes">
+		<salary>89000</salary>
+		<nationality>
+			<country>France</country>
+		</nationality>
+	</player>
+	<player pid="19" fname="Oliver" lname="Cromwell" married="yes">
+		<salary>450000</salary>
+		<nationality>
+			<country>USA</country>
+		</nationality>
+	</player>
+	<player pid="20" fname="John" lname="Smith" married="no">
+		<salary>157000</salary>
+		<nationality>
+			<country>Canada</country>
+		</nationality>
+	</player>
+</players>

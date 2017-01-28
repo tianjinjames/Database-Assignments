@@ -1,0 +1,3 @@
+SELECT hotelcity
+FROM hotel
+WHERE hotel.maxrate = (SELECT max(hotel.maxrate) FROM hotel)

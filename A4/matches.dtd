@@ -1,0 +1,12 @@
+<!ELEMENT matches (match*)>
+<!ELEMENT match (location, teams)>
+<!ELEMENT location (city, country)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT teams (team+)>
+<!ELEMENT team (score)>
+<!ELEMENT score (#PCDATA)>
+
+<!ATTLIST match mid CDATA #REQUIRED>
+<!ATTLIST match year CDATA #REQUIRED>
+<!ATTLIST team tid CDATA #REQUIRED>

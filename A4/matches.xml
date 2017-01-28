@@ -1,0 +1,214 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE People SYSTEM "matches.dtd">
+<matches>
+	<match mid="1" year="2000">
+		<location>
+			<city>Toronto</city>
+			<country>Canada</country>
+		</location>
+		<teams>
+			<team tid="1">
+				<score>5</score>
+			</team>
+			<team tid="2">
+				<score>1</score>
+			</team>
+		</teams>
+	</match>
+	<match mid="2" year="2014">
+		<location>
+			<city>Guatemala City</city>
+			<country>Guatemala</country>
+		</location>
+		<teams>
+			<team tid="1">
+				<score>5</score>
+			</team>
+			<team tid="3">
+				<score>1</score>
+			</team>
+		</teams>
+	</match>
+	<match mid="3" year="2014">
+		<location>
+			<city>Singapore</city>
+			<country>Singapore</country>
+		</location>
+		<teams>
+			<team tid="2">
+				<score>5</score>
+			</team>
+			<team tid="3">
+				<score>1</score>
+			</team>
+		</teams>
+	</match>
+	<match mid="4" year="2001">
+		<location>
+			<city>Montreal</city>
+			<country>Canada</country>
+		</location>
+		<teams>
+			<team tid="3">
+				<score>5</score>
+			</team>
+			<team tid="4">
+				<score>1</score>
+			</team>
+		</teams>
+	</match>
+	<match mid="5" year="2002">
+		<location>
+			<city>New York</city>
+			<country>USA</country>
+		</location>
+		<teams>
+			<team tid="3">
+				<score>5</score>
+			</team>
+			<team tid="1">
+				<score>1</score>
+			</team>
+		</teams>
+	</match>
+	<match mid="6" year="2003">
+		<location>
+			<city>London</city>
+			<country>UK</country>
+		</location>
+		<teams>
+			<team tid="4">
+				<score>5</score>
+			</team>
+			<team tid="1">
+				<score>1</score>
+			</team>
+		</teams>
+	</match>
+	<match mid="7" year="2004">
+		<location>
+			<city>Paris</city>
+			<country>France</country>
+		</location>
+		<teams>
+			<team tid="2">
+				<score>5</score>
+			</team>
+			<team tid="3">
+				<score>1</score>
+			</team>
+		</teams>
+	</match>
+	<match mid="8" year="2014">
+		<location>
+			<city>Athens</city>
+			<country>Greece</country>
+		</location>
+		<teams>
+			<team tid="2">
+				<score>5</score>
+			</team>
+			<team tid="1">
+				<score>1</score>
+			</team>
+		</teams>
+	</match>
+	<match mid="9" year="2005">
+		<location>
+			<city>Singapore</city>
+			<country>Singapore</country>
+		</location>
+		<teams>
+			<team tid="5">
+				<score>5</score>
+			</team>
+			<team tid="4">
+				<score>1</score>
+			</team>
+		</teams>
+	</match>
+	<match mid="10" year="2006">
+		<location>
+			<city>Los Angeles</city>
+			<country>USA</country>
+		</location>
+		<teams>
+			<team tid="4">
+				<score>5</score>
+			</team>
+			<team tid="2">
+				<score>1</score>
+			</team>
+		</teams>
+	</match>
+	<match mid="11" year="2007">
+		<location>
+			<city>Barcelona</city>
+			<country>Spain</country>
+		</location>
+		<teams>
+			<team tid="3">
+				<score>5</score>
+			</team>
+			<team tid="1">
+				<score>1</score>
+			</team>
+		</teams>
+	</match>
+	<match mid="12" year="2008">
+		<location>
+			<city>Toulouse</city>
+			<country>France</country>
+		</location>
+		<teams>
+			<team tid="1">
+				<score>5</score>
+			</team>
+			<team tid="4">
+				<score>1</score>
+			</team>
+		</teams>
+	</match>
+	<match mid="13" year="2009">
+		<location>
+			<city>Vancouver</city>
+			<country>Canada</country>
+		</location>
+		<teams>
+			<team tid="3">
+				<score>5</score>
+			</team>
+			<team tid="1">
+				<score>1</score>
+			</team>
+		</teams>
+	</match>
+	<match mid="14" year="2014">
+		<location>
+			<city>Munich</city>
+			<country>Germany</country>
+		</location>
+		<teams>
+			<team tid="5">
+				<score>5</score>
+			</team>
+			<team tid="3">
+				<score>1</score>
+			</team>
+		</teams>
+	</match>
+	<match mid="15" year="2014">
+		<location>
+			<city>Berlin</city>
+			<country>Germany</country>
+		</location>
+		<teams>
+			<team tid="5">
+				<score>5</score>
+			</team>
+			<team tid="4">
+				<score>1</score>
+			</team>
+		</teams>
+	</match>
+</matches>
